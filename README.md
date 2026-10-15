@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bună! 👋 Sunt Dumitrana Popescu
 
-<!--
-**dumitrana27/dumitrana27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Despre mine
+Sunt studentă la Informatică Economică la Universitatea „Ștefan cel Mare” din Suceava și sunt interesată de programare, tehnologie și dezvoltare profesională.
 
-Here are some ideas to get you started:
+## Competențe
+- C++ – programare și algoritmi
+- HTML – în curs de dezvoltare
+- Python – programare și algoritmi
+- SQL 
+- Instrumente AI – pentru documentare, învățare și productivitate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Obiectiv profesional
+Îmi doresc să îmi dezvolt competențele tehnice prin proiecte practice și să obțin experiență prin internshipuri.
+
+## Proiecte
+În curând voi adăuga aici proiecte realizate în cadrul facultății și proiecte personale.
